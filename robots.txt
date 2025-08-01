@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sebsv123.github.io/sebastiansv.github.io/sitemap.xml

@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Publications</title>
+
+  <!-- Meta SEO -->
+  <meta name="description" content="Independent research in economics, Green AI, and urban analytics. Connecting econometrics, sustainability, and data.">
+  <meta name="keywords" content="econometrics, green AI, housing, machine learning, public policy, urban analytics, Sebastián Sifontes">
+  <meta name="author" content="Sebastián Sifontes">
+  <meta property="og:title" content="Sebastián Sifontes | Economics, Green AI, Urban Analytics">
+  <meta property="og:description" content="Independent research in econometrics, sustainable algorithms, and urban analysis.">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://sebastiansv.github.io">
+  <meta property="og:image" content="https://sebastiansv.github.io/img/preview.jpg">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Sebastián Sifontes | Economist & Independent Researcher">
+  <meta name="twitter:description" content="Explore sustainable models, urban analytics, and responsible AI projects.">
+  <meta name="twitter:image" content="https://sebastiansv.github.io/img/preview.jpg">
+
+  <link rel="icon" href="favicon.ico" type="image/x-icon">
+  <link rel="stylesheet" href="css/style.css">
+  <link href="https://fonts.googleapis.com/css2?family=Inter&family=Lora&display=swap" rel="stylesheet">
+
+  <script defer>
+    function toggleMode() {
+      document.body.classList.toggle("dark-mode");
+    }
+
+    function mostrarPublicacion(id) {
+      const secciones = document.querySelectorAll(".proyecto");
+      secciones.forEach(sec => sec.classList.remove("activa"));
+      const seleccionada = document.getElementById(id);
+      if (seleccionada) seleccionada.classList.add("activa");
+    }
+
+    window.addEventListener("DOMContentLoaded", function () {
+      mostrarPublicacion('eco-retina');
+    });
+
+    window.addEventListener("scroll", function () {
+      const header = document.querySelector("header");
+      header.style.backgroundColor = window.scrollY > 100
+        ? "rgba(46, 125, 50, 0.8)"
+        : "rgba(46, 125, 50, 1)";
+    });
+  </script>
+</head>
+
+<body>
+  <header>
+    <img src="img/favicon_lambda.png" alt="Sebastián Sifontes Logo" class="logo-header">
+    <h1>Sebastián Sifontes</h1>
+    <p class="subtitulo">Economist. Data explorer. Lifelong learner.</p>
+    <h1>Publications</h1>
+    <nav class="navbar">
+      <a href="index_en.html">Home</a>
+      <a href="about_en.html">About</a>
+      <a href="projects_en.html">Publications</a>
+      <a href="experience_en.html">Experience</a>
+      <a href="contact_en.html">Contact</a>
+    </nav>
+    <div style="margin-top: 10px;">
+      <a href="projects.html" style="margin-right:10px;">🇪🇸 Español</a>
+      <a href="projects_en.html">🇬🇧 English</a>
+    </div>
+    <button onclick="toggleMode()">🌓 Toggle Mode</button>
+  </header>
+
+  <main>
+    <div class="contenedor-publicaciones">
+      <aside class="menu-publicaciones">
+        <h3>📂 View Publication</h3>
+        <button onclick="mostrarPublicacion('eco-retina')">🌿 Eco‑RETINA</button>
+        <button onclick="mostrarPublicacion('gender-gap')">📈 Gender Wage Gap</button>
+        <button onclick="mostrarPublicacion('pollution-inequality')">🌍 Pollution & Inequality</button>
+      </aside>
+
+      <div class="contenido-publicaciones">
+        <section class="proyecto" id="eco-retina">
+          <h2>🌿 Eco‑RETINA: Green Artificial Intelligence for Housing Analytics</h2>
+          <p>This research connects econometrics, machine learning, and Green AI as part of my undergraduate thesis in Economics at the Complutense University of Madrid.</p>
+          <p>Using the Eco‑RETINA algorithm, aligned with Green AI principles, I analyzed the public housing market in Singapore (2017–2022), where time is literally an economic variable.</p>
+          <ul>
+            <li>Surface elasticity ≈ 0.98%.</li>
+            <li>Cubic polynomial relationship between remaining years and price.</li>
+            <li>Positive externalities by block (~0.46 % /m²).</li>
+            <li>Block height negatively influences annual depreciation.</li>
+          </ul>
+          <img src="img/Imagen1.jpg" alt="Cubic graph ln(price) vs remaining years" class="imagen-proyecto">
+          <p><a href="docs/tfg-eco-retina.pdf" class="boton-descarga" target="_blank">📄 Read Economics Thesis</a></p>
+        </section>
+
+        <section class="proyecto" id="gender-gap">
+          <h2>📈 Gender Wage Gap in the United States</h2>
+          <img src="img/brecha_salarial.jpg" alt="Gender wage gap chart" class="imagen-proyecto">
+          <p>This study replicates and expands the framework by Blau and Kahn (2017), incorporating variables to capture unobserved heterogeneities. Based on PSID and CPS data (1980–2010), using an extended Mincer equation.</p>
+          <ul>
+            <li>📉 Residual wage gap of 22%, even after adjusting for key variables.</li>
+            <li>🔍 Factors: sectoral segregation, experience penalty, and regional disparities.</li>
+            <li>📐 Hausman test (χ² = 585.96) confirms robustness.</li>
+          </ul>
+          <p>💡 Solutions: wage audits, parental co-responsibility, and quotas in strategic sectors. Inspired by Claudia Goldin’s approach.</p>
+          <p><em>Based on 33,398 PSID and 344,287 CPS observations.</em></p>
+        </section>
+
+        <section class="proyecto" id="pollution-inequality">
+          <h2>🌍 Inequality, Human Development and Air Pollution</h2>
+          <img src="img/contaminacion_urbana.jpg" alt="Urban pollution and inequality" class="imagen-proyecto">
+          <p>This study explores how economic inequality and human development influence PM10, PM2.5, and NO2 levels in cities around the world.</p>
+          <ul>
+            <li><strong>Inequality:</strong> Linked to higher exposure and lower adaptive capacity.</li>
+            <li><strong>Development:</strong> Initially increases pollution, but later may mitigate it via better policies.</li>
+            <li><strong>Latitude & climate:</strong> Determine NO2 and particulate concentration differences across cities.</li>
+          </ul>
+          <blockquote>“Technology alone is not enough. Equity and human development are key to real sustainability.”</blockquote>
+          <p><a href="docs/TFG_Gestion_Sifontes.pdf" class="boton-descarga" target="_blank">📄 Read Public Management Thesis</a></p>
+        </section>
+      </div>
+    </div>
+  </main>
+
+  <footer>
+    <p>© 2025 Sebastián Sifontes — Built with HTML, CSS, and purpose.</p>
+    <p>✉️ <a href="mailto:sebastian.sifontes@gmail.com">sebastian.sifontes@gmail.com</a> | 💼 <a href="https://www.linkedin.com/in/sebastian-sifontes-valentin-752665187" target="_blank">LinkedIn</a></p>
+    <p><button onclick="toggleMode()">🌓 Light/Dark Mode</button></p>
+  </footer>
+</body>
+</html>
