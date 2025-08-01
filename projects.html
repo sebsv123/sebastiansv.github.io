@@ -1,0 +1,216 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <title>Proyectos</title>
+
+  <!-- Meta SEO -->
+  <meta name="description" content="Investigación independiente en economía, Green AI y analítica urbana. Conectando econometría, sostenibilidad y datos.">
+  <meta name="keywords" content="econometría, green AI, economía, vivienda, machine learning, políticas públicas, urban analytics, Sebastián Sifontes">
+  <meta name="author" content="Sebastián Sifontes">
+  <meta property="og:title" content="Sebastián Sifontes | Economía, Green AI, Urban Analytics">
+  <meta property="og:description" content="Investigación independiente en econometría, algoritmos sostenibles y análisis urbano.">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://sebastiansv.github.io">
+  <meta property="og:image" content="https://sebastiansv.github.io/img/preview.jpg">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Sebastián Sifontes | Economista e investigador independiente">
+  <meta name="twitter:description" content="Explora modelos sostenibles, analítica urbana y proyectos de IA responsable.">
+  <meta name="twitter:image" content="https://sebastiansv.github.io/img/preview.jpg">
+
+  <link rel="icon" href="favicon.ico" type="image/x-icon">
+  <link rel="stylesheet" href="css/style.css">
+  <link href="https://fonts.googleapis.com/css2?family=Inter&family=Lora&display=swap" rel="stylesheet">
+
+  <style>
+    .contenedor-publicaciones {
+      display: flex;
+      gap: 30px;
+      padding: 2em 10%;
+      flex-wrap: wrap;
+    }
+
+    .menu-publicaciones {
+      flex: 0 0 200px;
+    }
+
+    .menu-publicaciones h3 {
+      margin-bottom: 10px;
+    }
+
+    .menu-publicaciones button {
+      display: block;
+      margin-bottom: 10px;
+      padding: 10px;
+      background-color: #2e7d32;
+      color: white;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+      transition: background-color 0.3s;
+      width: 100%;
+    }
+
+    .menu-publicaciones button:hover {
+      background-color: #1c5e25;
+    }
+
+    .proyecto {
+      display: none;
+      flex: 1 1 600px;
+      animation: fadeIn 0.5s ease-in-out;
+    }
+
+    .proyecto.activa {
+      display: block;
+    }
+
+    @keyframes fadeIn {
+      from { opacity: 0; transform: translateY(10px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+
+    .imagen-proyecto {
+      display: block;
+      margin: 20px auto;
+      max-width: 100%;
+      border-radius: 10px;
+      box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+    }
+
+    header {
+      position: sticky;
+      top: 0;
+      z-index: 1000;
+      background-color: rgba(46, 125, 50, 1);
+      transition: background-color 0.3s ease;
+      padding: 1em;
+    }
+
+    .logo-header {
+      width: 40px;
+      position: absolute;
+      top: 10px;
+      left: 10px;
+    }
+
+    .subtitulo {
+      font-size: 0.9em;
+      margin-top: -10px;
+      color: #e0e0e0;
+    }
+
+    button {
+      color: #2e7d32;
+      background-color: #f0f0f0;
+      border: none;
+      padding: 6px 10px;
+      border-radius: 6px;
+      cursor: pointer;
+    }
+
+    button:hover {
+      background-color: #ddd;
+    }
+  </style>
+</head>
+
+<body>
+  <header>
+    <img src="img/favicon_lambda.png" alt="Logo Sebastián Sifontes" class="logo-header">
+    <h1>Sebastián Sifontes</h1>
+    <p class="subtitulo">Economista. Explorador de datos. Aprendiz eterno.</p>
+    <h1>Proyectos</h1>
+    <nav class="navbar">
+      <a href="index.html">Inicio</a>
+      <a href="about.html">Sobre mí</a>
+      <a href="projects.html">Publicaciones</a>
+      <a href="experience.html">Experiencia</a>
+      <a href="contact.html">Contacto</a>
+    </nav>
+    <button onclick="toggleMode()">🌓 Cambiar modo</button>
+  </header>
+
+  <main>
+    <div class="contenedor-publicaciones">
+      <aside class="menu-publicaciones">
+        <h3>📂 Ver Publicación</h3>
+        <button onclick="mostrarPublicacion('eco-retina')">🌿 Eco‑RETINA</button>
+        <button onclick="mostrarPublicacion('brecha-salarial')">📈 Brecha Salarial</button>
+        <button onclick="mostrarPublicacion('contaminacion-global')">🌍 Contaminación y Desigualdad</button>
+      </aside>
+
+      <section class="proyecto activa" id="eco-retina">
+        <h2>🌿 Eco‑RETINA: Inteligencia Artificial Verde para el Análisis Inmobiliario</h2>
+        <p>He trabajado en un proyecto que conecta econometría, machine learning y Green AI como parte de mi TFG en Economía en la Universidad Complutense de Madrid.</p>
+        <p>Aplicando el algoritmo Eco‑RETINA, alineado con principios de Green AI, analicé el mercado de vivienda pública en Singapur (2017–2022), donde el tiempo es literalmente una variable económica.</p>
+        <ul>
+          <li>Elasticidad superficie ≈ 0,98 %.</li>
+          <li>Relación polinómica cúbica entre años residuales y precio.</li>
+          <li>Externalidades positivas por bloque (~0,46 % /m²).</li>
+          <li>Altura del bloque influye negativamente en depreciación anual.</li>
+        </ul>
+        <img src="img/Imagen1.jpg" alt="Gráfica cúbica ln(precio) vs años residuales" class="imagen-proyecto">
+        <p><a href="docs/tfg-eco-retina.pdf" class="boton-descarga" target="_blank">📄 Leer TFG Economía</a></p>
+      </section>
+
+      <section class="proyecto" id="brecha-salarial">
+        <h2>📈 Brecha Salarial de Género en EE.UU.</h2>
+        <img src="img/brecha_salarial.jpg" alt="Brecha salarial de género" class="imagen-proyecto">
+        <p>Este estudio replica y amplía el marco de Blau y Kahn (2017), incorporando variables para capturar heterogeneidades no observadas. Basado en datos PSID y CPS (1980–2010) y usando la fórmula extendida de Mincer.</p>
+        <ul>
+          <li>📉 Brecha residual del 22% aun ajustando por variables clave.</li>
+          <li>🔍 Factores: segregación sectorial, penalización por experiencia, y disparidades regionales.</li>
+          <li>📐 Contraste de Hausman (χ² = 585.96) confirma robustez.</li>
+        </ul>
+        <p>💡 Soluciones: auditorías salariales, corresponsabilidad parental, cuotas en sectores estratégicos. Inspirado por el enfoque de Claudia Goldin.</p>
+        <p><em>Basado en 33,398 observaciones PSID y 344,287 CPS.</em></p>
+      </section>
+
+      <section class="proyecto" id="contaminacion-global">
+        <h2>🌍 Desigualdad, Desarrollo Humano y Contaminación Atmosférica</h2>
+        <img src="img/contaminacion_urbana.jpg" alt="Contaminación urbana y desigualdad" class="imagen-proyecto">
+        <p>Este estudio explora cómo la desigualdad económica y el desarrollo humano afectan los niveles de PM10, PM2.5 y NO2 en ciudades de todo el mundo.</p>
+        <ul>
+          <li><strong>Desigualdad:</strong> Asociada a mayor exposición y menor capacidad de respuesta.</li>
+          <li><strong>Desarrollo:</strong> Inicialmente aumenta la contaminación, pero luego puede mitigarse mediante mejores políticas.</li>
+          <li><strong>Latitud y clima:</strong> Determinan diferencias en concentración de contaminantes (NO2 especialmente).</li>
+        </ul>
+        <blockquote>“La tecnología sola no basta. La equidad y el desarrollo humano son clave para una sostenibilidad real.”</blockquote>
+        <p><a href="docs/TFG_Gestion_Sifontes.pdf" class="boton-descarga" target="_blank">📄 Leer TFG en Gestión Pública</a></p>
+      </section>
+    </div>
+  </main>
+
+  <footer>
+    <p>© 2025 Sebastián Sifontes — Desarrollado con HTML, CSS y propósito.</p>
+    <p>✉️ <a href="mailto:sebastian.sifontes@gmail.com">sebastian.sifontes@gmail.com</a> | 💼 <a href="https://www.linkedin.com/in/sebastian-sifontes-valentin-752665187" target="_blank">LinkedIn</a></p>
+    <p><button onclick="toggleMode()">🌓 Modo Claro/Oscuro</button></p>
+  </footer>
+
+  <script>
+    function toggleMode() {
+      document.body.classList.toggle("dark-mode");
+    }
+
+    function mostrarPublicacion(id) {
+      const secciones = document.querySelectorAll(".proyecto");
+      secciones.forEach(sec => sec.classList.remove("activa"));
+      const seleccionada = document.getElementById(id);
+      if (seleccionada) seleccionada.classList.add("activa");
+    }
+
+    window.addEventListener("scroll", function () {
+      const header = document.querySelector("header");
+      if (window.scrollY > 100) {
+        header.style.backgroundColor = "rgba(46, 125, 50, 0.8)";
+      } else {
+        header.style.backgroundColor = "rgba(46, 125, 50, 1)";
+      }
+    });
+
+    // Mostrar Eco‑RETINA por defecto al cargar
+    window.onload = () => mostrarPublicacion('eco-retina');
+  </script>
+</body>
+</html>
