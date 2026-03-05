@@ -2,10 +2,7 @@
 ## SSV Advisory | Sebastián Sifontes Valentín | Marzo 2026
 ### **CONFIDENCIAL — Solo para inversores acreditados bajo NDA**
 
-> **Archivo completo**: La versión completa y más actualizada de este deck se encuentra en `deliverables/investor_deck_SSV_Advisory.md`.
-> Este archivo contiene el mismo contenido completo de los 14 slides.
-
-> **Diseño conceptual**: Minimalista, fondo blanco, acento gris oscuro (#333) y azul corporativo (#1a5276), tipografía sans-serif (Montserrat / Inter).
+> **Diseño conceptual**: Minimalista, fondo blanco, acento gris oscuro (#333) y azul corporativo (#1a5276), tipografía sans-serif (Montserrat / Inter). Para presentación visual, exportar a PowerPoint/Keynote usando este contenido como estructura.
 
 ---
 

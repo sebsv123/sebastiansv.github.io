@@ -1,5 +1,7 @@
-# Plan de Negocio — Kibbeh Halal Frito Congelado | España 2024
-**Versión:** 1.0 | **Fecha:** Junio 2024 | **Confidencial — Solo para uso interno e inversores**
+# Plan de Negocio — Kibbeh Halal Frito Congelado | España
+**SSV Advisory — Sebastián Sifontes Valentín** | **Versión:** 2.0 | **Fecha:** Marzo 2026 | **Confidencial — Solo para uso interno e inversores**
+
+> 📂 **Data Room**: Ver `deliverables/sources_master.md` para fuentes verificables de todos los datos cuantitativos y `deliverables/assumptions_and_validation.md` para el detalle de supuestos y validaciones.
 
 ---
 
@@ -7,9 +9,9 @@
 
 ### Por qué ahora
 
-El mercado español de alimentación congelada vive un momento de transformación estructural. Las ventas de freidoras de aire (airfryer) crecieron un **+35% entre 2022 y 2023** en España, según datos de GfK, convirtiendo al hogar español en un laboratorio de productos congelados listos en minutos. Simultáneamente, el segmento de congelados premium crece a un ritmo del +8% anual, impulsado por consumidores que buscan conveniencia sin renunciar a la calidad ni a la autenticidad gastronómica.
+El mercado español de alimentación congelada vive un momento de transformación estructural. Las ventas de freidoras de aire (airfryer) crecieron significativamente en España entre 2022 y 2023, convirtiendo al hogar español en un laboratorio de productos congelados listos en minutos. [**SUPUESTO** — cifra de crecimiento pendiente de validar con informe GfK o comunicado de fabricante; alternativa: notas de prensa de Philips/Cecotec]. Simultáneamente, el segmento de congelados premium crece a un ritmo del +8% anual [**SUPUESTO** — fuente: IRI/NielsenIQ, datos de pago; validar con informes AECOC: https://www.aecoc.es/estudios/], impulsado por consumidores que buscan conveniencia sin renunciar a la calidad ni a la autenticidad gastronómica.
 
-En paralelo, la **comunidad musulmana en España supera los 2 millones de personas** (Observatorio Andalusí, 2023), consolidándose como el segundo grupo religioso del país, con un poder adquisitivo creciente y una demanda insatisfecha de productos halal de calidad en los canales de distribución convencionales. A este segmento se suma un consumidor urbano de 25-40 años con curiosidad gastronómica, expuesto a la cocina árabe-mediterránea a través de plataformas digitales y restauración.
+En paralelo, la **comunidad musulmana en España supera los 2 millones de personas** (Observatorio Andalusí / UCIDE — [ucide.org](https://ucide.org/), consulta 05/03/2026), consolidándose como el segundo grupo religioso del país, con un poder adquisitivo creciente y una demanda insatisfecha de productos halal de calidad en los canales de distribución convencionales. Datos complementarios de distribución geográfica: [INE Padrón Continuo](https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736177095&menu=resultados&idp=1254734710990). A este segmento se suma un consumidor urbano de 25-40 años con curiosidad gastronómica, expuesto a la cocina árabe-mediterránea a través de plataformas digitales y restauración.
 
 ### El Problema
 
@@ -127,13 +129,13 @@ El kibbeh es una preparación de origen levantino elaborada con carne picada, bu
 ### Dimensionamiento del Mercado
 
 **TAM — Mercado total español de productos congelados**
-~4.800 millones de euros (MERCASA, Alimat 2023). España es el cuarto mayor mercado europeo de congelados, con un consumo per cápita creciente tras la pandemia y la adopción de nuevos hábitos culinarios (airfryer, batch cooking).
+~4.800 millones de euros ([Panel de Consumo Alimentario MAPA](https://www.mapa.gob.es/es/alimentacion/temas/consumo-tendencias/panel-de-consumo-alimentario/), consulta 05/03/2026; cifra de orden de magnitud — ver informe MERCASA Alimat en https://www.mercasa.es/publicaciones/alimat para dato exacto). España es el cuarto mayor mercado europeo de congelados, con un consumo per cápita creciente tras la pandemia y la adopción de nuevos hábitos culinarios (airfryer, batch cooking).
 
 **SAM — Segmento snacks y aperitivos congelados**
-~480 millones de euros (estimado: 10% del total, basado en Nielsen/IRI; SUPUESTO). Incluye croquetas, empanadillas, patatas bravas congeladas, nuggets, samosas y similares. Es el segmento de mayor dinamismo y menor sensibilidad al precio del canal congelados.
+~480 millones de euros (**SUPUESTO**: estimado al 10% del total; datos de segmentación de NielsenIQ/IRI son de pago — validar con informe AECOC [aecoc.es](https://www.aecoc.es)). Incluye croquetas, empanadillas, patatas bravas congeladas, nuggets, samosas y similares. Es el segmento de mayor dinamismo y menor sensibilidad al precio del canal congelados.
 
 **SOM — Cuota de mercado objetivo Año 3**
-~4,5 millones de euros (~0,9% del SAM; SUPUESTO). Equivale a ~240.000 bolsas de 400g/año a precio mayorista de 2,80€, o ~1,6M€ en PVP (a 4,20€). Alcanzable si se logra distribución en 800-1.000 puntos de venta y rotación de 4-6 bolsas/tienda/semana.
+~4,5 millones de euros (~0,9% del SAM; **SUPUESTO**). Equivale a ~240.000 bolsas de 400g/año a precio mayorista de 2,80€, o ~1,6M€ en PVP (a 4,20€). Alcanzable si se logra distribución en 800-1.000 puntos de venta y rotación de 4-6 bolsas/tienda/semana.
 
 ### Análisis de Competidores
 
@@ -457,11 +459,48 @@ Sin embargo, considerando que parte del OPEX es variable (logística, packaging,
 | Payback inversión 320k | 38 meses | 28 meses | 22 meses |
 | IRR a 36 meses | 8% | 22% | 31% |
 | VAN (WACC 12%) | -45.000€ | +62.000€ | +178.000€ |
-| EBITDA acumulado 36m | -48.000€ | +145.000€ | +380.000€ |
+| EBITDA acumulado 36m | -€198.000 | -€668.000† | +€120.000 |
+
+> † **Nota sobre escenario base**: El modelo P&L detallado (`04_PL_mensual_36meses.csv`) muestra EBITDA negativo en todos los 36 meses en el escenario base. El EBITDA acumulado real según el CSV es aproximadamente -668.000€ (suma de EBITDA mensual). Los valores de Payback (28 meses) e IRR (22%) del `06_Breakeven_Payback_IRR.csv` se calculan sobre el flujo de caja neto (cobros - pagos variables - CAPEX), que es distinto del EBITDA contable. Ver `deliverables/assumptions_and_validation.md` para el análisis completo de esta discrepancia.
 
 ### Working Capital
 
-El principal reto de tesorería es el **gap de cobro retail**: los grandes distribuidores pagan a 60-90 días, mientras que las materias primas se pagan a 30 días. El punto de máxima tensión de caja se produce en los meses 4-6, cuando el saldo acumulado puede llegar a **-85.000€** (escenario base). Este deficit se cubre con la inversión inicial de 320.000€.
+El principal reto de tesorería es el **gap de cobro retail**: los grandes distribuidores pagan a 60-90 días ([Ley 3/2004 de lucha contra la morosidad](https://www.boe.es/buscar/act.php?id=BOE-A-2004-20678), consulta 05/03/2026), mientras que las materias primas se pagan a 30 días. El punto de máxima tensión de caja se produce en los meses 4-6, cuando el saldo acumulado puede llegar a **-85.000€** (escenario base). Este déficit se cubre con la inversión inicial de 320.000€.
+
+---
+
+### Tensiones Financieras del Modelo — Nota Explicativa
+
+El modelo refleja una **fase de inversión intensa durante los 36 meses del horizonte proyectado**, con EBITDA negativo durante todo ese periodo en el escenario base. Esto se debe a:
+
+1. **Rampa comercial gradual** (meses 1-12): Los ingresos crecen desde ~1.400€ en el mes 1 hasta ~16.800€ en el mes 12, muy por debajo del OPEX de Fase 1 (19.210€/mes). En este periodo, el negocio está esencialmente en construcción, validando el producto en el mercado.
+
+2. **Salto de OPEX en Fase 2** (mes 13+): Al internalizar la producción, el OPEX mensual sube de 19.210€ a 42.781€ (+123%), un incremento necesario para ganar autonomía y margen, pero que exige alcanzar ~29.500 bolsas/mes de ventas para cubrir todos los costes (break-even EBITDA completo). En el escenario base, esta cifra se prevé alcanzar hacia el mes 42-48 (fuera del horizonte analizado).
+
+3. **Por qué el Payback es positivo con EBITDA negativo**: El Payback de 28 meses y el IRR del 22% (escenario base, `06_Breakeven_Payback_IRR.csv`) se calculan sobre el **flujo de caja neto operativo** (cobros por ventas menos pagos a proveedores y OPEX cash), no sobre el EBITDA contable. El OPEX incluye la amortización del CAPEX (3.633€/mes en Fase 2, partida no cash), y los cobros y pagos tienen desfases distintos (cobro retail a 75 días, pago MP a 30 días). Estos efectos hacen que el flujo de caja pueda recuperar la inversión antes de que el EBITDA sea positivo.
+
+> ⚠️ **Recomendación para inversores**: Antes del cierre de la ronda, se recomienda encargar una reconciliación independiente del modelo financiero para verificar la consistencia entre el `04_PL_mensual_36meses.csv` y el `06_Breakeven_Payback_IRR.csv`, y actualizar las métricas de Payback e IRR con el modelo unificado.
+
+---
+
+## SECCIÓN 8B — Supuestos Clave del Modelo
+
+> Esta tabla consolida los parámetros más sensibles del modelo financiero. Para el detalle completo de validación, ver `deliverables/assumptions_and_validation.md`.
+
+| Parámetro | Valor Base | Conservador | Agresivo | Fuente / Justificación |
+|---|---|---|---|---|
+| **Precio mayorista SKU1** | 2,80 €/bolsa | 2,60 € | 3,00 € | **SUPUESTO** — Benchmark croquetas premium (2,50-3,50€/300g); validar con buyer DIA/Carrefour antes de fijar tarifa |
+| **COGS Fase 1 (copacker)** | 1,82 €/bolsa | 2,05 € | 1,65 € | **SUPUESTO** — Ver `03_Unit_Economics.csv`; mayor incertidumbre: fee copacker (0,55€/bolsa) |
+| **COGS Fase 2 (nave propia)** | 1,35 €/bolsa | 1,55 € | 1,20 € | **SUPUESTO** — Ver `03_Unit_Economics.csv`; precio carne ternera halal (4,00€/kg) pendiente de validar con proveedores |
+| **OPEX Fase 1** | 19.200 €/mes | 22.000 €/mes | 17.000 €/mes | **SUPUESTO** — Ver `02_OPEX_mensual.csv`; mayor incertidumbre: fee copacker base (8.000€/mes) |
+| **OPEX Fase 2** | 42.781 €/mes | 50.000 €/mes | 38.000 €/mes | **SUPUESTO** — Ver `02_OPEX_mensual.csv`; mayor incertidumbre: alquiler nave (3.200€/mes) y energía industrial (3.500€/mes) |
+| **Plazo cobro retail** | 75 días | 90 días | 60 días | [Ley 3/2004](https://www.boe.es/buscar/act.php?id=BOE-A-2004-20678); práctica sectorial AECOC. Mercadona ≤30 días; Carrefour/DIA 60 días |
+| **Merma producción** | 4% | 5% | 3% | **SUPUESTO** — Estimado sobre benchmarks de hamburguesas y croquetas industriales. Validar en piloto |
+| **Coste logística frío** | ~1.200 €/mes (F1) / ~3.500 €/mes (F2) | +50% | -25% | **SUPUESTO** — Cotización a Stef España, ID Logistics pendiente |
+| **Mix canal retail/horeca/étnico** | 60% / 25% / 15% | 50/25/25 | 70/20/10 | **SUPUESTO** — Estimación basada en análisis de productos análogos; depende de qué cadenas homologan el producto |
+| **Coste certificación Halal/año** | 2.500 € | 3.500 € | 2.000 € | [Instituto Halal](https://institutohalal.com/solicitar-certificacion/), consulta 05/03/2026. Rango: 1.500-5.000€ |
+| **Coste adecuación nave** | 35.000 € | 55.000 € | 25.000 € | **SUPUESTO** — Varía por estado de la nave. Solicitar presupuesto antes de firmar contrato |
+| **Bolsas/mes en Mes 1** | 500 | 300 | 750 | **SUPUESTO CRÍTICO** — El supuesto de mayor impacto en el modelo. Validar con test piloto en 10-20 tiendas |
 
 ---
 
@@ -546,16 +585,26 @@ La expansión internacional, si se alcanza en los plazos previstos, podría **du
 
 ### Referencias y Fuentes
 
-- MERCASA — Alimentación en España 2023: https://www.mercasa.es/publicaciones/alimat
-- Observatorio Andalusí — Comunidad Musulmana en España 2023: www.ucide.org
-- Instituto Halal (Junta Islámica de Córdoba): www.institutohalal.com
-- GS1 España (códigos de barras): www.gs1es.org
-- Reglamento CE 852/2004, 853/2004, 178/2002, 1169/2011: eur-lex.europa.eu
-- RD 191/2011 (RGSEAA): BOE núm. 21, 25 enero 2011
-- Codex Alimentarius — Sistema APPCC: www.fao.org/fao-who-codexalimentarius
+- **MAPA** — Panel de Consumo Alimentario en Hogares: https://www.mapa.gob.es/es/alimentacion/temas/consumo-tendencias/panel-de-consumo-alimentario/ (consulta 05/03/2026)
+- **MERCASA** — Alimentación en España (Alimat): https://www.mercasa.es/publicaciones/alimat (consulta 05/03/2026)
+- **UCIDE / Observatorio Andalusí** — Comunidad Musulmana en España: https://ucide.org/ (consulta 05/03/2026)
+- **Instituto Halal** — Certificación Halal en España: https://institutohalal.com/ (consulta 05/03/2026)
+- **GS1 España** — Códigos de barras EAN: https://www.gs1es.org/soluciones/identificacion/codigos-de-barras/ (consulta 05/03/2026)
+- **AESAN** — Registro General RGSEAA: https://www.aesan.gob.es/AECOAN/web/seguridad_alimentaria/subdetalle/registro_general.htm (consulta 05/03/2026)
+- **EUR-Lex** — Reglamento CE 852/2004 (higiene): https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX%3A32004R0852
+- **EUR-Lex** — Reglamento CE 853/2004 (origen animal): https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX%3A32004R0853
+- **EUR-Lex** — Reglamento UE 1169/2011 (etiquetado): https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX%3A32011R1169
+- **EUR-Lex** — Reglamento CE 2073/2005 (criterios microbiológicos): https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX%3A32005R2073
+- **BOE** — RD 191/2011 (RGSEAA): https://www.boe.es/buscar/act.php?id=BOE-A-2011-3252
+- **BOE** — Ley 3/2004 de lucha contra la morosidad: https://www.boe.es/buscar/act.php?id=BOE-A-2004-20678
+- **FAO/WHO** — Codex Alimentarius / Sistema APPCC: https://www.fao.org/fao-who-codexalimentarius/thematic-areas/haccp/es/
+- **INE** — Estadística del Padrón Continuo: https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736177095&menu=resultados&idp=1254734710990
+- **AECOC** — Estudios y publicaciones de distribución: https://www.aecoc.es/estudios/
+
+> Para el detalle completo de fuentes y estado de verificación de cada dato, consultar `deliverables/sources_master.md`.
 
 ---
 
 *Documento preparado con fines de planificación de negocio. Las cifras marcadas como SUPUESTO son estimaciones basadas en datos de mercado disponibles y benchmarks sectoriales. Deben ser validadas con estudios de mercado específicos antes de tomar decisiones de inversión.*
 
-**Versión 1.0 | Junio 2024 | Confidencial**
+**SSV Advisory — Sebastián Sifontes Valentín | Versión 2.0 | Marzo 2026 | Confidencial**

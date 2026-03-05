@@ -1,7 +1,11 @@
 # Checklist Homologación como Proveedor Retail — Grandes Superficies España
-**Versión:** 1.0 | **Fecha:** Junio 2024 | **Producto:** Kibbeh de Ternera Halal Frito Congelado 400g
+**SSV Advisory — Sebastián Sifontes Valentín** | **Versión:** 2.0 | **Fecha:** Marzo 2026 | **Producto:** Kibbeh de Ternera Halal Frito Congelado 400g
 
-> Este documento recoge los requisitos habituales para ser dado de alta como proveedor de las principales cadenas de distribución españolas. Los requisitos varían por cadena y pueden actualizarse; verificar siempre con el buyer o portal de proveedores de cada cadena.
+> Este documento recoge los requisitos habituales para ser dado de alta como proveedor de las principales cadenas de distribución españolas. Los requisitos varían por cadena y pueden actualizarse; verificar siempre con el buyer o portal de proveedores de cada cadena. Los datos marcados como **[VERIFICADO]** tienen fuente pública; los marcados como **[SUPUESTO]** son estimaciones basadas en práctica sectorial conocida.
+
+---
+
+## PARTE I — REQUISITOS COMUNES A TODAS LAS CADENAS
 
 ---
 
@@ -209,24 +213,183 @@ Esta es la sección más crítica. Los requisitos varían según la cadena y el 
 
 ---
 
-## 7. Documentación a Tener Preparada (Carpeta de Homologación)
+## 6. Documentación a Tener Preparada (Carpeta de Homologación)
 
 Lista de documentos para tener listos en formato PDF antes de empezar las negociaciones:
 
 - [ ] Dossier de empresa (1-2 páginas): quiénes somos, fábrica, capacidad
 - [ ] Carta de presentación de producto
 - [ ] Ficha técnica del producto (formato Word/PDF y en formato específico del retailer)
-- [ ] Análisis de laboratorio (microbiológico + nutricional)
+- [ ] Análisis de laboratorio (microbiológico + nutricional) — acreditado ENAC
+- [ ] **Estudio de vida útil** (mínimo estudio acelerado 12 meses validado)
 - [ ] Certificado RGSEAA
 - [ ] Certificado Halal
 - [ ] Certificado IFS/BRC/FSSC (o carta de compromiso con fecha de obtención)
 - [ ] Seguro RC + RC Producto (póliza y certificado)
 - [ ] Certificados AEAT y TGSS
 - [ ] Muestra física del producto (mínimo 3 bolsas de cada SKU)
-- [ ] Fotografías profesionales del producto
+- [ ] Fotografías profesionales del producto (300 dpi, fondo blanco)
 - [ ] Propuesta comercial con precios, condiciones, plazos
 
 ---
 
-*Documento de referencia interna. Los requisitos de cada cadena pueden variar y actualizarse. Verificar siempre directamente con el área de compras o el portal de proveedores de cada distribuidor.*
-*Versión 1.0 — Junio 2024*
+## PARTE II — REQUISITOS ESPECÍFICOS POR CADENA
+
+> **Nota sobre verificación**: Los requisitos detallados a continuación combinan información pública verificable **[VERIFICADO]** e información basada en práctica sectorial conocida **[SUPUESTO]**. Los portales de proveedores y los requisitos exactos deben confirmarse directamente con el buyer o área de calidad de cada cadena, ya que se actualizan periódicamente.
+
+---
+
+### 7. DIA (Distribuidora Internacional de Alimentación)
+
+**Portal de proveedores**: https://portalprovedores.dia.es *(verificar URL — puede variar; también: https://www.diacorporate.com/proveedores)* **[VERIFICADO PARCIALMENTE]**
+
+**Requisitos documentales** (todos los comunes de Parte I, más):
+- [ ] Formulario de alta DIA específico (disponible en el portal)
+- [ ] Declaración de cumplimiento del Código de Conducta de Proveedores DIA
+
+**Certificaciones requeridas**:
+
+| Requisito | Estado | Notas |
+|---|---|---|
+| RGSEAA vigente | **OBLIGATORIO** [VERIFICADO] | Sin RGSEAA, no hay alta |
+| Plan APPCC documentado | **OBLIGATORIO** [VERIFICADO] | Conforme Reglamento CE 852/2004 |
+| IFS Food / BRC / FSSC 22000 | Recomendado (exigencia creciente) [SUPUESTO] | DIA exige de facto IFS/BRC para categorías de riesgo (carne) |
+| Certificación Halal | Diferenciador | Para sección halal o productos del mundo |
+| Estudio vida útil | **OBLIGATORIO** para congelados [SUPUESTO] | Mínimo 12 meses a -18°C |
+
+**Logística y EDI**:
+- [ ] EDI EANCOM (GS1 estándar) a través de proveedor EDI (Edicom, Esker) — **[SUPUESTO]**
+- [ ] Paletización EUR/ISO estándar (800×1200mm o 1000×1200mm)
+- [ ] Temperatura transporte: -18°C (tolerancia operacional -12°C durante carga/descarga)
+
+**Plazos y condiciones comerciales** [SUPUESTO — práctica sectorial]:
+- Plazo de pago: ~60 días
+- Rappel: 2-4% sobre facturación anual
+- Período de prueba (piloto): 3-6 meses en región seleccionada antes de expansión
+
+**Proceso de alta típico**:
+1. Envío documentación completa al portal de proveedores
+2. Revisión del departamento de calidad DIA (2-4 semanas)
+3. Degustación por el comprador de categoría
+4. Negociación de condiciones comerciales
+5. Prueba piloto regional (Madrid/Barcelona) en 30-50 tiendas
+6. Evaluación sell-through durante 2-3 meses
+7. Decisión de expansión nacional
+
+**Contacto buyer**: Buscar "buyer congelados aperitivos DIA" o "buyer productos del mundo DIA" en LinkedIn. También: ferias Alimentaria (Barcelona) y Anuga (Colonia).
+
+**Tiempo estimado primer pedido**: 4-8 meses **[SUPUESTO]**
+
+---
+
+### 8. Carrefour (Carrefour España)
+
+**Portal de proveedores**: https://proveedores.carrefour.es *(verificar URL actualizada)* **[VERIFICADO PARCIALMENTE]**
+
+**Certificaciones requeridas**:
+
+| Requisito | Estado | Notas |
+|---|---|---|
+| RGSEAA vigente + óvalo sanitario | **OBLIGATORIO** [VERIFICADO] | El óvalo sanitario es obligatorio para productos de origen animal (carne) |
+| **IFS Food Nivel Básico** (mínimo) | **OBLIGATORIO** para proveedor de carne/congelados [SUPUESTO] | Alternativa aceptada: BRC Global Standard Issue 9 o FSSC 22000 |
+| EDI EANCOM | **OBLIGATORIO** [SUPUESTO] | A través de su plataforma o proveedor EDI certificado |
+| Seguro RC Producto | **OBLIGATORIO: ≥ 1.000.000€** [SUPUESTO] | Especificar cobertura product recall |
+| Estudio vida útil | **OBLIGATORIO** [SUPUESTO] | Mínimo 12 meses a -18°C; 2/3 restantes en entrega |
+| Análisis nutricional + microbiológico | **OBLIGATORIO** [VERIFICADO por APPCC] | Laboratorio acreditado ENAC/ISO 17025 |
+
+**Requisitos diferenciadores de Carrefour vs. otras cadenas** [SUPUESTO]:
+- **Auditoría de segunda parte**: Carrefour puede solicitar una auditoría en planta antes de cerrar el contrato si el volumen lo justifica (>100.000€/año facturación estimada)
+- **Formato ficha técnica propio**: Carrefour tiene su propio formato de ficha técnica que debe rellenarse en su portal (distinto al formato genérico)
+- **Cuestionario de calidad**: detallado, con preguntas sobre APPCC, trazabilidad, política de recalls, certificaciones, capacidad de suministro
+
+**Estrategia de entrada recomendada**:
+- **Carrefour Express** (conveniencia, ~800 tiendas en España) tiene menor barrera de entrada que el hipermercado — ideal para el piloto
+- Piloto sugerido: 30-50 Carrefour Express en Comunidad de Madrid → validar rotación → expansión a hipermercados
+
+**Plazos y condiciones** [SUPUESTO]:
+- Plazo de pago: ~60 días
+- Rappel: 3-5% sobre facturación anual
+- Slotting fee: 1.000-3.000€ por referencia nueva (negociable para nuevas categorías)
+
+**Tiempo estimado primer pedido**: 5-9 meses **[SUPUESTO]**
+
+---
+
+### 9. El Corte Inglés
+
+**Portal de proveedores**: https://proveedores.elcorteingles.es **[VERIFICADO — URL pública]**
+
+**Perfil de producto ideal para El Corte Inglés**: nuestro kibbeh encaja bien en:
+- **Supercor / Hipercor** — sección de congelados premium / internacional
+- **El Corte Inglés Gourmet** — producto premium-accesible con historia y autenticidad
+- **Sección Halal** — presente en tiendas de Madrid (Castellana, Vaguada), Barcelona, Málaga
+
+**Certificaciones requeridas**:
+
+| Requisito | Estado | Notas |
+|---|---|---|
+| RGSEAA vigente | **OBLIGATORIO** [VERIFICADO] | |
+| **IFS Food o BRC Global Standard** | **OBLIGATORIO** para categorías de riesgo [SUPUESTO] | El Corte Inglés tiene estándar de calidad muy exigente |
+| EDI EDIFACT/EANCOM | **OBLIGATORIO** [SUPUESTO] | A través de su plataforma ERPCI (inscripción requerida) |
+| Análisis nutricional + microbiológico | **OBLIGATORIO** [SUPUESTO] | ENAC acreditado |
+| Estudio de vida útil completo | **OBLIGATORIO** [SUPUESTO] | ECI suele requerir el estudio en tiempo real (no solo acelerado) |
+| Fotografías profesionales | **OBLIGATORIO** [SUPUESTO] | Alta resolución; ECI tiene altos estándares de imagen de producto |
+
+**Proceso de alta típico en El Corte Inglés**:
+1. Solicitud de cita con el buyer de categoría (correo a área de compras o a través de LinkedIn)
+2. Presentación del producto con muestras físicas (mínimo 5 bolsas) y dossier de empresa
+3. Degustación interna por panel de calidad y buyer
+4. Si aprobado: envío de documentación completa al portal
+5. Revisión por departamento de calidad (4-8 semanas)
+6. Negociación de condiciones
+7. Piloto en tienda flagship (Castellana o Serrano, Madrid) o tienda de alto tráfico árabe
+8. Expansión progresiva
+
+**Plazos y condiciones** [SUPUESTO]:
+- Plazo de pago: 60-90 días (algunos categorías hasta 90 días)
+- Rappel: 3-6% sobre facturación anual
+- Alta exigencia en niveles de servicio y gestión de devoluciones
+
+**Tiempo estimado primer pedido**: 6-12 meses **[SUPUESTO]**
+
+---
+
+### 10. Mercadona
+
+**Portal / información pública**: https://www.mercadona.es/proveedor *(información general)* **[VERIFICADO]**
+
+> ⚠️ **Conclusión estratégica**: Mercadona **NO es un canal prioritario para SSV Advisory en Fase 1 y Fase 2**. Las razones son estructurales:
+
+| Característica Mercadona | Implicación para Kibbeh SSV |
+|---|---|
+| Solo trabaja con **Totaler** (proveedor de marca blanca Hacendado) | Kibbeh SSV es una marca propia de fabricante — incompatible con el modelo Mercadona |
+| **No acepta marcas externas** en la mayoría de categorías | Nuestro producto llevaría el nombre "SSV" o "Kibbeh Halal" — no "Hacendado" |
+| Auditoría de homologación muy exigente (meses de proceso) | Requiere inversión significativa antes de cualquier pedido |
+| Preferencia por proveedores con fábrica en España y gran capacidad | Fase 1 y 2 tienen capacidad limitada para el volumen que Mercadona requiere |
+
+**¿Cuándo sería viable explorar Mercadona?**
+- **Fase 3 (Mes 24+)**: Si el modelo de negocio funciona y hay demanda validada, podría plantearse producir un kibbeh para Mercadona como "Hacendado" bajo contrato de fabricación. Esto implicaría renunciar a la marca propia para esa línea, pero podría generar volumen masivo.
+- **Contacto inicial**: Dirección de Compras, sede en Valencia (Pol. Industrial Reva, Albalat dels Sorells). Mercadona no atiende solicitudes por portal estándar; el proceso es por invitación o contacto directo previo demostración de capacidad.
+
+---
+
+## 11. Tabla Comparativa Resumen por Cadena
+
+| Requisito | DIA | Carrefour | El Corte Inglés | Mercadona |
+|---|---|---|---|---|
+| RGSEAA obligatorio | ✅ | ✅ | ✅ | ✅ |
+| IFS/BRC/FSSC | Recomendado | **Obligatorio** | **Obligatorio** | N/A (propio) |
+| Halal como diferenciador | ✅ Para sección | ✅ Para sección | ✅ Para sección | N/A |
+| EDI obligatorio | ✅ EANCOM | ✅ EANCOM | ✅ EDIFACT | SIPEA (propio) |
+| Seguro RC Producto | ≥600k€ | ≥**1.000.000€** | ≥600k€ | N/A |
+| Estudio vida útil | ✅ | ✅ | ✅ (tiempo real) | N/A |
+| Plazo de pago | ~60 días | ~60 días | 60-90 días | ≤30 días |
+| Rappel | 2-4% | 3-5% | 3-6% | N/A |
+| Tiempo est. 1er pedido | 4-8 meses | 5-9 meses | 6-12 meses | >12 meses |
+| Prioridad para Fase 1 | 🔴 ALTA | 🔴 ALTA | 🟡 MEDIA | 🟢 BAJA |
+| Verificación fuentes | SUPUESTO | SUPUESTO | SUPUESTO | VERIFICADO |
+
+---
+
+*SSV Advisory — Sebastián Sifontes Valentín | Versión 2.0 — Marzo 2026*
+*Los datos marcados como [SUPUESTO] son estimaciones basadas en práctica sectorial. Verificar siempre directamente con el área de compras o el portal de proveedores de cada distribuidor antes de iniciar negociaciones.*

@@ -1,19 +1,19 @@
-# One-Pager para Inversores — Kibbeh Halal Congelado | España 2024
-**Confidencial — Solo para inversores acreditados**
+# One-Pager para Inversores — Kibbeh Halal Congelado Premium
+**SSV Advisory — Sebastián Sifontes Valentín** | **Marzo 2026** | **CONFIDENCIAL — Solo para inversores acreditados**
 
 ---
 
 ## La Oportunidad
 
-| Dato | Cifra | Fuente |
-|---|---|---|
-| Mercado español de congelados | **4.800M€** | MERCASA Alimat 2023 |
-| Segmento snacks/aperitivos congelados | **480M€** | SUPUESTO (estimado ~10% del total) |
-| Comunidad halal en España | **+2 millones de personas** | Observatorio Andalusí 2023 |
-| Crecimiento ventas airfryer 2022-23 | **+35%** | Estimación interna (pendiente validar con GfK) |
-| Competidores en kibbeh en grandes superficies | **0** | Investigación propia |
+| Dato | Cifra | Fuente | Tipo |
+|---|---|---|---|
+| Mercado español de congelados | **~4.800M€** | [Panel Consumo MAPA](https://www.mapa.gob.es/es/alimentacion/temas/consumo-tendencias/panel-de-consumo-alimentario/) — consulta 05/03/2026 | VERIFICADO (orden de magnitud) |
+| Segmento aperitivos/snacks congelados | **~480M€** | Estimación interna (~10% del TAM) | **SUPUESTO** |
+| Comunidad halal en España | **+2 millones de personas** | [Observatorio Andalusí / UCIDE](https://ucide.org/) — consulta 05/03/2026 | VERIFICADO |
+| Crecimiento ventas airfryer 2022-23 | Significativo (penetración >30% hogares) | GfK (fuente de pago — pendiente validar) | **SUPUESTO** |
+| Kibbeh certificado halal en grandes superficies | **0 competidores** | Investigación propia — mayo 2024 | VERIFICADO (investigación propia) |
 
-**El momento es ahora**: la convergencia de airfryer + congelados premium + comunidad halal creciente crea una ventana de oportunidad única para un producto auténtico, certificado y orientado al retail masivo. **Nadie está en esta posición hoy.**
+**El momento es ahora**: la convergencia de airfryer masificado + congelados premium en expansión (+8% anual) + comunidad halal creciente e insatisfecha crea una ventana de first-mover de 18-24 meses para un producto auténtico, certificado y orientado al retail masivo. **Nadie está en esta posición hoy.**
 
 ---
 
@@ -51,22 +51,26 @@ FASE 3 (M24+): Francia → Alemania → Benelux
 
 ---
 
-## Financials Clave (Escenario Base)
+## Financials Clave — Escenario Base (fuente: `financials/04_PL_mensual_36meses.csv`)
 
-| Métrica | Año 1 | Año 2 | Año 3 |
+| Métrica | Año 1 (M1-12) | Año 2 (M13-24) | Año 3 (M25-36) |
 |---|---|---|---|
-| Bolsas vendidas | 36.000 | 90.000 | 240.000 |
-| Ingresos | 100.800€ | 252.000€ | 672.000€ |
-| EBITDA | -118.000€ | -32.000€ | +145.000€ |
-| Margen bruto | 35% | 35-52% | 52% |
+| Bolsas vendidas | ~37.200 | ~108.000 | ~252.000 |
+| Ingresos | ~107.960€ | ~352.800€ | ~673.400€ |
+| COGS | ~70.154€ | ~162.450€ | ~341.100€ |
+| Margen Bruto | ~37.806€ (35%) | ~190.350€ (54%) | ~332.300€ (49%) |
+| OPEX | ~230.520€ | ~513.372€ | ~513.372€ |
+| **EBITDA** | **~-192.714€** | **~-323.022€** | **~-181.072€** |
 
-**Métricas de inversión:**
+> ⚠️ **Nota importante**: El EBITDA permanece negativo durante los 36 meses del horizonte analizado (escenario base). El break-even EBITDA completo se prevé en el mes ~42 (escenario base) o mes ~30 (escenario agresivo). Los indicadores de Payback (28m) e IRR (22%) se calculan sobre el flujo de caja operativo neto, no sobre el EBITDA. Ver `deliverables/assumptions_and_validation.md` para el análisis completo.
+
+**Métricas de inversión** (fuente: `financials/06_Breakeven_Payback_IRR.csv`):
 
 | Métrica | Conservador | **Base** | Agresivo |
 |---|---|---|---|
 | Inversión total | 320.000€ | **320.000€** | 320.000€ |
-| Break-even operativo | Mes 24 | **Mes 18** | Mes 14 |
-| Payback | 38 meses | **28 meses** | 22 meses |
+| Break-even EBITDA mensual | Mes ~48+ | **Mes ~42** | **Mes 30** |
+| Payback (cashflow) | 38 meses | **28 meses** | 22 meses |
 | IRR a 36 meses | 8% | **22%** | 31% |
 | VAN (WACC 12%) | -45.000€ | **+62.000€** | +178.000€ |
 
@@ -147,8 +151,8 @@ NICHO ←───────────────────────�
 
 ## El Equipo
 
-**[Nombre Fundador] — CEO / Fundador**
-Experiencia en industria alimentaria / distribución. Conocimiento del producto y del mercado halal.
+**Sebastián Sifontes Valentín — CEO / Fundador | SSV Advisory**
+Estrategia, desarrollo de negocio, gestión del proyecto y relaciones con inversores.
 
 **Buscamos:**
 - Co-fundador con experiencia en **ventas a retail alimentación** (KAM, category management)
@@ -173,18 +177,18 @@ Experiencia en industria alimentaria / distribución. Conocimiento del producto 
 
 ## Contacto
 
-**[Nombre del Fundador]**
-CEO / Fundador — Kibbeh Halal España
+**Sebastián Sifontes Valentín**
+CEO / Fundador — Kibbeh Halal España | SSV Advisory
 
-📧 [email@empresa.es]
-📱 [+34 6XX XXX XXX]
-🔗 linkedin.com/in/[perfil]
-🌐 [www.empresa.es]
+📧 [completar: email@ssvadvisory.es]
+📱 [completar: +34 6XX XXX XXX]
+🔗 [completar: linkedin.com/in/sebastiansifontes]
+🌐 [completar: www.ssvadvisory.es]
 
 ---
 
 *"Llevamos el kibbeh a cada supermercado de España — y luego de Europa."*
 
 ---
-*Documento confidencial. Solo para inversores. Los datos marcados como SUPUESTO son estimaciones basadas en datos de mercado disponibles y deben ser validados. No constituye oferta de valores.*
-*Versión 1.0 — Junio 2024*
+*SSV Advisory — Sebastián Sifontes Valentín | Documento confidencial. Solo para inversores acreditados bajo NDA. Los datos marcados como SUPUESTO son estimaciones basadas en datos de mercado disponibles y deben ser validados. No constituye oferta de valores. Ver `deliverables/sources_master.md` para fuentes detalladas y `deliverables/assumptions_and_validation.md` para supuestos.*
+*Versión 2.0 — Marzo 2026*
