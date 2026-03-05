@@ -1,0 +1,27 @@
+Concepto,Tipo,Coste Mensual Fase 1 Copacker (€),Coste Mensual Fase 2 Nave Propia (€),Notas
+Alquiler nave/copacker fee base,Fijo,8000,3200,Fase 1: fee base copacker (sin volumen); Fase 2: alquiler nave 400m² polígono industrial
+Suministros energía (electricidad + gas),Variable,800,3500,Fase 2 incluye frío industrial y freidora; estimado 0.18€/kWh
+Suministro agua,Variable,100,350,Fase 2 incluye limpieza CIP y uso proceso
+Salarios personal directo producción,Fijo,0,9600,Fase 2: 2 operarios + 1 jefe producción (sin Seguridad Social)
+Seguridad Social personal directo,Fijo,0,3168,33% sobre salarios directos
+Salario responsable calidad/APPCC,Fijo,0,2200,Fase 2: 1 técnico calidad media jornada (coste total equivalente jornada completa)
+Seguridad Social calidad,Fijo,0,726,33% sobre salario calidad
+Salario logística/almacén,Fijo,0,1800,Fase 2: 1 operario almacén
+Seguridad Social logística,Fijo,0,594,33% sobre salario logística
+Gerencia/Administración (fundador),Fijo,2000,2500,Sueldo fundador; mínimo viable
+Gestoría/asesoría contable y laboral,Fijo,600,800,Gestoría externa mensual
+Seguro responsabilidad civil + producto,Fijo,300,500,RC + seguro producto alimentario
+Seguro nave + equipos,Fijo,0,350,Seguro multiriesgo industrial Fase 2
+Mantenimiento maquinaria y preventivo,Fijo,0,800,Contrato mantenimiento preventivo maquinaria Fase 2
+Logística congelada distribución,Variable,1200,3500,Transportista frío certificado; Fase 2 mayor volumen
+Almacenaje externo cámara congelados,Variable,800,0,Almacén externo -18°C; solo Fase 1 copacker
+Packaging y materiales auxiliares,Variable,1400,2800,Bolsas doypack + cajas + etiquetas; proporcional a producción
+Certificación Halal (prorrateo anual),Fijo,210,210,2.500€/año ÷ 12
+Análisis laboratorio externos,Variable,400,250,Análisis periódicos microbiológicos y nutricionales
+Marketing y trade marketing,Variable,2000,1500,Degustaciones + PLV + descuentos introductorios; alta en lanzamiento
+Viajes y representación comercial,Variable,500,500,Visitas compradores retail + ferias
+Comunicaciones + IT (SaaS),Fijo,400,500,ERP + EDI + telefonía + internet
+Combustible y flota,Variable,200,300,Vehículo comercial/reparto muestras
+Mermas proceso (estimación),Variable,500,800,Fase 2 incluye merma frío y proceso; ~3-4% producción
+Amortización CAPEX (lineal 5 años),Fijo,0,3633,240.000€ ÷ 60 meses (solo equipos Fase 2)
+TOTAL OPEX MENSUAL,,19210,42781,

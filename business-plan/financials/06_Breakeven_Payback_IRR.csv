@@ -1,0 +1,13 @@
+Métrica,Escenario Conservador,Escenario Base,Escenario Agresivo,Fórmula/Supuesto
+Break-even unidades/mes (Fase 2),6200 bolsas/mes,6200 bolsas/mes,6200 bolsas/mes,"OPEX fijos Fase 2 / Margen Contribución unitario = costes fijos / (2.80-1.35); SUPUESTO ajustado separando costes fijos de variables"
+Mes alcance break-even operativo,Mes 24,Mes 18,Mes 14,Mes en que EBITDA mensual se hace positivo de forma sostenida
+Payback inversión total,38 meses,28 meses,22 meses,Mes en que Saldo Acumulado recupera inversión inicial 320.000€
+IRR a 36 meses,8%,22%,31%,SUPUESTO: TIR sobre flujos netos mensuales con inversión inicial 320k
+VAN 36 meses (tasa desc. 12%),-€45.000,€+62.000,€+178.000,SUPUESTO: VAN calculado con WACC estimado 12%
+Inversión total comprometida,320.000€,320.000€,320.000€,Fase 1 (80k) + Fase 2 (240k)
+Necesidad máxima circulante,-95.000€,-85.000€,-65.000€,Mínimo saldo acumulado operativo durante el proyecto (mes 5-6 aproximadamente; excluye CAPEX ya cubierto con inversión)
+Ingresos totales 36 meses,€668.160,€1.113.600,€1.670.400,Suma de ingresos mensuales por escenario (escenario base: sum 36 meses × 2.80€)
+EBITDA total 36 meses,-€198.000,-€85.000,€+120.000,Suma EBITDA acumulado 36 meses (EBITDA = Margen Bruto - OPEX incl. amortización)
+Margen bruto medio global (36m),38%,41%,41%,Promedio ponderado Fase 1 (35%) + Fase 2 (52%) ponderado por volumen
+Margen bruto Fase 2 (desde mes 13),52%,52%,52%,Fijo: COGS 1.35€ / PVP mayorista 2.80€
+Unidades totales vendidas 36 meses,243.420,405.700,608.550,Suma mensual × multiplicador escenario

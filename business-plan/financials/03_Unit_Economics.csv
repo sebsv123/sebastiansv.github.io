@@ -1,0 +1,19 @@
+Componente,Coste Fase 1 Copacker (€/bolsa),Coste Fase 2 Nave (€/bolsa),% Total Fase 2,Notas
+Carne ternera halal picada (180g/bolsa),0.72,0.72,53.3%,4.00€/kg → 0.72€/bolsa; precio de mercado SUPUESTO
+Bulgur fino (100g/bolsa),0.08,0.08,5.9%,0.80€/kg → 0.08€/bolsa
+Cebolla (48g/bolsa),0.02,0.02,1.5%,0.35€/kg → 0.02€/bolsa
+Especias y condimentos (20g/bolsa),0.04,0.04,3.0%,Blend especias a 2.00€/kg
+Packaging bolsa doypack 400g,0.18,0.16,11.9%,Fase 1 precio mayor por menor volumen; Fase 2 >100k uds/año
+Packaging secundario (caja + etiqueta),0.04,0.03,2.2%,
+Aceite fritura (parcial; consumo por bolsa),0.05,0.04,3.0%,Aceite girasol alto oleico refinado
+Energía directa (fritura + ultracongelación),0.08,0.06,4.4%,SUPUESTO Fase 2 propio; Fase 1 incluido en fee copacker
+Mano de obra directa (imputada/bolsa),0.00,0.10,7.4%,Fase 2: 3 operarios directos; 6.000 bolsas/turno
+Mermas proceso (3.5% sobre MP),0.04,0.04,3.0%,
+Fee copacker (Fase 1),0.55,0.00,0%,Fee transformación copacker por bolsa producida
+Overhead asignado (parte de OPEX fijo),0.02,0.06,4.4%,Asignación prorrata OPEX fijo / volumen
+TOTAL COGS POR BOLSA,1.82,1.35,100%,
+Precio mayorista (a retailer),2.80,2.80,,Misma tarifa ambas fases; margen mejora en Fase 2
+Margen bruto (€/bolsa),0.98,1.45,,Fase 1: 35%; Fase 2: 52%
+Margen bruto (%),35.0%,51.8%,,
+PVP estimado (markup retailer 33%),4.20,4.20,,Precio venta público supermercado
+Contribución neta estimada (bolsa Fase 2),,0.85,,Tras asignar prorrata OPEX variable; excluye amortización
