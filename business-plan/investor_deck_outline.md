@@ -54,7 +54,7 @@ Junio 2024
 
 **Datos clave en este slide:**
 - 2M+ consumidores halal en España (Observatorio Andalusí 2023)
-- 35% penetración airfryer en hogares españoles (GfK 2023 — SUPUESTO/estimado)
+- 35% crecimiento ventas airfryer 2022-23 en España (estimación interna basada en tendencias de mercado — verificar con informe GfK)
 - 0 competidores en kibbeh de calidad en grandes superficies
 
 ---
@@ -102,7 +102,7 @@ Junio 2024
 **[GRÁFICO de las 4 tendencias convergentes]**
 
 **1. 🌬️ La Revolución Airfryer**
-- Ventas de airfryer: **+35% en 2022-2023** en España (GfK — SUPUESTO)
+- Ventas de airfryer: **+35% en 2022-2023** en España (estimación interna; dato pendiente de validar con GfK)
 - El kibbeh es uno de los alimentos más populares en recetas de airfryer en YouTube / TikTok árabe
 - 15 millones de dispositivos activos en hogares españoles estimados (2023)
 
@@ -112,7 +112,7 @@ Junio 2024
 - La segunda generación de inmigrantes árabes/marroquíes (25-35 años) compra en Carrefour, no en la tienda del barrio de sus padres
 
 **3. 💎 Congelados Premium en Alza**
-- Crecimiento del segmento congelados premium: **+8% anual** (SUPUESTO)
+- Crecimiento del segmento congelados premium: **+8% anual** (estimación interna; pendiente validar con datos sectoriales AECOC/Nielsen)
 - El consumidor post-pandemia ya no ve los congelados como "comida de bajo presupuesto"
 - Tendencia hacia "convenience gourmet": autenticidad + rapidez + calidad
 
@@ -136,10 +136,10 @@ Junio 2024
    │  4.800M€  (MERCASA Alimat 2023)               │
    │  ┌──────────────────────────────────────┐    │
    │  │  SAM: Snacks/aperitivos congelados    │    │
-   │  │  480M€  (SUPUESTO ~10% del total)     │    │
+   │  │  480M€  (estimado ~10% del total)     │    │
    │  │  ┌────────────────────────────────┐  │    │
    │  │  │  SOM Año 3: 4,5M€              │  │    │
-   │  │  │  (~0,9% del SAM; SUPUESTO)     │  │    │
+   │  │  │  (~0,9% del SAM; objetivo año 3)  │  │    │
    │  │  └────────────────────────────────┘  │    │
    │  └──────────────────────────────────────┘    │
    └──────────────────────────────────────────────┘

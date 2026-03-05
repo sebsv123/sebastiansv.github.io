@@ -10,7 +10,7 @@
 | Mercado español de congelados | **4.800M€** | MERCASA Alimat 2023 |
 | Segmento snacks/aperitivos congelados | **480M€** | SUPUESTO (estimado ~10% del total) |
 | Comunidad halal en España | **+2 millones de personas** | Observatorio Andalusí 2023 |
-| Crecimiento ventas airfryer 2022-23 | **+35%** | GfK España (SUPUESTO/estimado) |
+| Crecimiento ventas airfryer 2022-23 | **+35%** | Estimación interna (pendiente validar con GfK) |
 | Competidores en kibbeh en grandes superficies | **0** | Investigación propia |
 
 **El momento es ahora**: la convergencia de airfryer + congelados premium + comunidad halal creciente crea una ventana de oportunidad única para un producto auténtico, certificado y orientado al retail masivo. **Nadie está en esta posición hoy.**
