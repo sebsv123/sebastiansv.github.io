@@ -1,0 +1,30 @@
+Concepto,Descripción,Coste Nuevo (€),Coste 2ª Mano (€),Coste Renting Mensual (€),Prioridad,Notas
+Constitución empresa y licencias,Constitución SL + licencias municipales,3500,0,0,Fase 1 copacker,Notaría + Registro Mercantil + tasa municipal
+Registro RGSEAA,Tasa registro sanitario CCAA + asesoría,1200,0,0,Fase 1 copacker,Incluye asesor APPCC inicial
+Certificación Halal año 1,Primera auditoría y certificado,2500,0,0,Fase 1 copacker,Instituto Halal u equivalente reconocido
+Diseño packaging SKU1+SKU2,Diseño gráfico bolsas + fichas técnicas,4500,0,0,Fase 1 copacker,Incluye adaptación idiomas ES/EN/FR
+Moldes/utillaje formado kibbeh,Moldes formato ovalado para copacker,3500,2000,0,Fase 1 copacker,Propiedad del cliente; queda para Fase 2
+Analíticas y validación producto,Análisis nutricional + microbiológico laboratorio externo,3800,0,0,Fase 1 copacker,Laboratorio acreditado; 3 analíticas iniciales
+Sistema ERP/SGA básico,Software gestión pedidos + trazabilidad (SaaS),0,0,350,Fase 1 copacker,Holded o similar; incluye EDI básico
+Marketing lanzamiento + ferias,Degustaciones + material PLV + feria ALIMENTARIA,18000,0,0,Fase 1 copacker,Incluye 2 degustaciones en tienda/mes durante 6 meses
+Working capital inicial,Circulante mes 1-3 (stock + anticipo copacker),40000,0,0,Fase 1 copacker,Cubre gap cobro retail 60-90 días
+Imprevistos Fase 1,Contingencia 10% Fase 1,2500,0,0,Fase 1 copacker,
+Adecuación nave industrial,Obras frío + instalación eléctrica + fontanería,35000,25000,0,Fase 2 nave propia,400m² polígono industrial; obra según estado nave
+Cámara frigorífica conservación -18°C,Cámara 40m³ paneles sándwich + unidad frigorífica,22000,14000,900,Fase 2 nave propia,Capacidad ~8 palés; potencia 4kW
+Abatidor/ultracongelador,Abatidor 60kg por ciclo para producto terminado,18000,10000,750,Fase 2 nave propia,Marca Hiber o Zanussi Industrial
+Freidora industrial continua,Freidora cinta 100kg/h aceite girasol,28000,16000,1100,Fase 2 nave propia,Marca CFT/Florigo; incluye sistema filtrado aceite
+Mezcladora/amasadora industrial,Amasadora 80L carne+especias,9000,5500,0,Fase 2 nave propia,Marca Fatosa o Mainca
+Formadora kibbeh automática,Formadora automática 40g/ud 1200 uds/h,22000,13000,900,Fase 2 nave propia,Marca Handtmann o equivalente; incluye utillajes
+Envasadora flow-pack o VFFS,Envasadora vertical 60 bolsas/min,18000,10000,750,Fase 2 nave propia,Para bolsas doypack 400g y 1kg
+Detector de metales,Detector metales en línea post-envasado,8500,5000,0,Fase 2 nave propia,PCC2 del plan APPCC; calibración incluida
+Báscula checkweigher,Báscula de verificación de peso en línea,6500,3800,0,Fase 2 nave propia,Marca Marel o Minebea Intec
+Carretilla elevadora eléctrica,Carretilla 1500kg para cámaras y expedición,12000,6500,350,Fase 2 nave propia,Incluye cargador y mantenimiento año 1
+Mesas y utensilios producción,Mesas acero inox + utensilios APPCC,4500,2500,0,Fase 2 nave propia,
+Laboratorio in-house básico,Equipamiento básico control calidad (termómetros calibrados + reactivos),3500,0,0,Fase 2 nave propia,
+ERP industrial + EDI avanzado,Upgrade software gestión + módulo EDI retail,8000,0,300,Fase 2 nave propia,Integración GS1 + EANCOM para Carrefour/DIA
+Instalación y puesta en marcha,Técnicos instalación + formación operarios,6000,0,0,Fase 2 nave propia,
+Imprevistos Fase 2,Contingencia 10% Fase 2,17500,0,0,Fase 2 nave propia,
+TOTAL FASE 1,,79500,,,Fase 1 copacker,
+TOTAL FASE 2,,218000,,,Fase 2 nave propia,
+Contingencia adicional,,22500,,,Total,Diferencia entre total partidas (297.500€) y presupuesto comprometido (320.000€)
+TOTAL PROYECTO,,320000,,,Total,Fase 1 (79.500€) + Fase 2 (218.000€) + Contingencia adicional (22.500€)

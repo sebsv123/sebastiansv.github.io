@@ -1,0 +1,23 @@
+Tarea,Responsable,Mes Inicio,Mes Fin,Duración (semanas),Coste Estimado (€),Dependencias,Estado
+Constitución empresa (SL) y apertura cuenta bancaria,Fundador + Notaría,0,1,4,3500,Ninguna,Pendiente
+Búsqueda y selección copacker halal,Fundador + Consultor,0,2,8,2000,Ninguna,Pendiente
+Diseño y briefing packaging SKU1+SKU2,Fundador + Diseñador,0,2,6,4500,Constitución empresa,Pendiente
+Registro RGSEAA y alta sanitaria CCAA,Fundador + Asesor APPCC,1,3,8,1200,Constitución empresa,Pendiente
+Elaboración plan APPCC completo,Asesor APPCC,1,3,8,2500,Alta sanitaria,Pendiente
+Solicitud certificación Halal,Fundador + Instituto Halal,1,4,12,2500,Alta sanitaria,Pendiente
+Desarrollo receta y pruebas organolépticas,Fundador + Copacker,1,3,6,1500,Selección copacker,Pendiente
+Análisis nutricional y microbiológico laboratorio,Laboratorio externo,3,4,4,3800,Receta validada,Pendiente
+Producción lote piloto (500 bolsas),Copacker,3,4,2,1800,Receta + APPCC + packaging,Pendiente
+Alta plataforma proveedor DIA (prueba piloto),Comercial,4,6,8,0,Lote piloto + certificados,Pendiente
+Alta plataforma proveedor Carrefour Express,Comercial,4,6,8,0,Lote piloto + certificados,Pendiente
+Negociación condiciones comerciales DIA,Comercial,5,7,8,0,Alta proveedor DIA,Pendiente
+Primer pedido de prueba DIA (50 tiendas piloto),Comercial,7,8,4,5000,Negociación + stock disponible,Pendiente
+Producción lote comercial Fase 1 (3.000 bolsas),Copacker,6,7,4,5460,Pedido confirmado,Pendiente
+Implementación ERP/SGA y EDI básico,IT + Fundador,3,5,8,4200,Constitución empresa,Pendiente
+Acciones marketing lanzamiento (degustaciones),Marketing,7,12,20,12000,Stock + tiendas activas,Pendiente
+Búsqueda nave industrial para Fase 2,Fundador,6,9,12,1000,Validación modelo copacker,Pendiente
+Negociación condiciones Carrefour Express,Comercial,7,9,8,0,Alta proveedor Carrefour,Pendiente
+Primer pedido Carrefour Express (30 tiendas),Comercial,9,10,4,0,Negociación Carrefour,Pendiente
+Evaluación resultados piloto y ajuste plan,Fundador + Comercial,10,11,4,0,3 meses ventas piloto,Pendiente
+Inicio proceso alta CCAA para nave propia,Fundador + Asesor,9,12,12,1500,Nave identificada,Pendiente
+Cierre inversión Fase 2 (si procede),Fundador + Inversor,10,12,8,0,Resultados piloto positivos,Pendiente
