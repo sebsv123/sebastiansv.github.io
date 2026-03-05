@@ -1,7 +1,7 @@
 # Lista de Maquinaria Recomendada — Producción Kibbeh Frito Congelado
 **Documento:** MACH-v1.0 | **Fecha:** Junio 2024 | **Aplicable a:** Fase 2 — Nave Industrial Propia
 
-> Esta lista cubre los equipos necesarios para una línea de producción de kibbeh frito congelado con capacidad de 10.000-20.000 bolsas/mes en turno único. Los precios son orientativos (2024); incluyen IVA en 2ª mano, excluyen IVA en nuevo.
+> Esta lista cubre los equipos necesarios para una línea de producción de kibbeh frito congelado con capacidad de 10.000-20.000 bolsas/mes en turno único. Los precios son orientativos (2024) y se expresan **sin IVA** tanto para equipos nuevos como de segunda mano, para facilitar la comparación. El renting mensual es cuota neta sin IVA. Todos los precios deben validarse con presupuestos reales de proveedores antes de la decisión de compra.
 
 ---
 

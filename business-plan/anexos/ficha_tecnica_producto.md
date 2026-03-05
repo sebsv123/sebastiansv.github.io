@@ -110,7 +110,7 @@ Kibbeh frito congelado elaborado con carne picada de ternera halal, bulgur fino 
 |---|---|
 | **Temperatura de conservación** | ≤ -18°C |
 | **Temperatura máxima transporte** | ≤ -15°C (nunca > -12°C en operaciones de carga/descarga) |
-| **Vida útil** | **18 meses** desde la fecha de fabricación a -18°C (SUPUESTO; validar con estudio de estabilidad) |
+| **Vida útil** | **18 meses** desde la fecha de fabricación a -18°C (**SUPUESTO pendiente de validar con estudio de estabilidad acelerada**; este dato debe confirmarse con laboratorio acreditado antes de la negociación con retailers, ya que suelen exigir vida útil residual mínima en entrega del 60-70%) |
 | **Fecha declarada** | "Consumir preferentemente antes de fin de: MM/AAAA" (en fondo del envase) |
 | **Instrucción post-apertura** | "Una vez abierto, consumir en el mismo acto de preparación" |
 | **Restricción de recongelación** | "No recongelar una vez descongelado" |
