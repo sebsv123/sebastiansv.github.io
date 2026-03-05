@@ -328,10 +328,12 @@ P4: ¿Una etapa posterior eliminará el peligro identificado o reducirá
 | Útiles de producción (cucharas, espátulas) | Acero inoxidable | Múltiples | Baja |
 | Fragmentos de envases de MP | Aluminio / latón | Recepción | Baja |
 
-**Límites críticos (según estándar BRC/IFS para producto en bolsa)**:
+**Límites críticos (según estándar BRC/IFS para producto en bolsa — valores del presente plan APPCC):**
 - Hierro ferroso (Fe): **≥ 2,5 mm**
 - No ferroso (NFe, aluminio, bronce): **≥ 3,0 mm**
-- Acero inoxidable (SS): **≥ 3,0 mm** *(nota: el PCC2 del análisis de peligros indicaba ≥3,5mm para SS — verificar y unificar con el equipo de calidad antes del lanzamiento)*
+- Acero inoxidable (SS): **≥ 3,0 mm**
+
+> ⚠️ **Nota de reconciliación**: Los límites anteriores son coherentes con los valores definidos tanto en la tabla de Análisis de Peligros (Sección 2) como en la Hoja de Control PCC2 (Sección 3) de este documento. Antes de iniciar la producción, el equipo técnico debe confirmar estos valores con el proveedor del detector de metales y con el auditor IFS/BRC, ya que algunos estándares de sector para producto congelado en bolsa recomiendan mayor sensibilidad (Fe ≥2,5mm / NFe ≥3,0-3,5mm / SS ≥3,0-4,0mm dependiendo del tamaño del paquete). El valor definitivo debe quedar registrado en un único lugar de este plan y en el certificado de calibración del equipo.
 
 ---
 
